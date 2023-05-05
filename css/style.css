@@ -1,0 +1,17 @@
+/* Style */
+/* CSS reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Regole CSS */
+body {
+    font-family: sans-serif;
+}
+
+img {
+    height: 70px;
+    width: 50px;
+}
